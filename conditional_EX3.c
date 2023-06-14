@@ -26,4 +26,5 @@ int main(void){
             break;
     }
     printf("\n%lf",result);
+    return 0;
 }
